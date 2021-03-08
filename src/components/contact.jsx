@@ -108,6 +108,20 @@ export class Contact extends Component {
                         <i className="fa fa-youtube"></i>
                       </a>
                     </li>
+                    <li>
+                      <a
+                        href={this.props.data ? this.props.data.facebook : "/"}
+                      >
+                        <i className="fa fa-github"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href={this.props.data ? this.props.data.facebook : "/"}
+                      >
+                        <i className="fa fa-instagram"></i>
+                      </a>
+                    </li>
                   </ul>
                 </div>
               </div>
