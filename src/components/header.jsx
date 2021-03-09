@@ -7,7 +7,7 @@ export class Header extends Component {
         <div className="intro">
           <div className="overlay">
             <div className="container">
-              <div className="row">
+              <div className="row" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="2000">
                 <div className="col-md-8 col-md-offset-2 intro-text">
                   <h1>
                     {this.props.data ? this.props.data.title : "Loading"}

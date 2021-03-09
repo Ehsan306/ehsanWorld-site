@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.AnyClassForContainer {
+  position: fixed;
+  right: -100px;
+  bottom: 150px;
+  transition: right 0.5s;
+  cursor: pointer;
+  background-color: white;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.AnyClassForTransition {
+  right: 20px;
+}

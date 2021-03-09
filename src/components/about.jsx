@@ -6,8 +6,8 @@ export class about extends Component {
         <div id="about">
         <div className="container">
           <div className="row">
-            <div className="col-xs-12 col-md-6"> <img src="img/about.jpg" className="img-responsive" alt=""/> </div>
-            <div className="col-xs-12 col-md-6">
+            <div className="col-xs-12 col-md-6" data-aos="fade-right" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="2000"> <img src="img/about.jpg" className="img-responsive" alt=""/> </div>
+            <div className="col-xs-12 col-md-6" data-aos="fade-left" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="2000">
               <div className="about-text">
                 <h2>About Us</h2>
                 <p>{this.props.data ? this.props.data.paragraph : 'loading...'}</p>
