@@ -5,14 +5,14 @@ export class Services extends Component {
     return (
       <div id="services" className="text-center">
         <div className="container">
-          <div className="section-title" data-aos="fade-down" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="2000">
+          <div className="section-title" data-aos="fade-down" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="1000">
             <h2>Our Services</h2>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
               dapibus leonec.
             </p>
           </div>
-          <div className="row" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="2000">
+          <div className="row" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="1000">
             {this.props.data
               ? this.props.data.map((d, i) => (
                   <div key={`${d.name}-${i}`} className="col-md-4">

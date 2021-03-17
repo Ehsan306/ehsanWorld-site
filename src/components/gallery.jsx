@@ -5,7 +5,7 @@ export class Gallery extends Component {
     return (
       <div id="portfolio" className="text-center">
         <div className="container">
-          <div className="section-title" data-aos="fade-down" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="2000">
+          <div className="section-title" data-aos="fade-down" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="1000">
             <h2>Gallery</h2>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
@@ -15,7 +15,7 @@ export class Gallery extends Component {
           <div className="row">
             <div className="portfolio-items">
               <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item" data-aos="fade-right" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="2000">
+                <div className="portfolio-item" data-aos="fade-right" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="1000">
                   <div className="hover-bg">
                     {" "}
                     <a
@@ -36,7 +36,7 @@ export class Gallery extends Component {
                 </div>
               </div>
               <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item" data-aos="fade-up" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="2000">
+                <div className="portfolio-item" data-aos="fade-up" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="1000">
                   <div className="hover-bg">
                     {" "}
                     <a
@@ -57,7 +57,7 @@ export class Gallery extends Component {
                 </div>
               </div>
               <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item" data-aos="fade-left" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="2000">
+                <div className="portfolio-item" data-aos="fade-left" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="1000">
                   <div className="hover-bg">
                     {" "}
                     <a
@@ -78,7 +78,7 @@ export class Gallery extends Component {
                 </div>
               </div>
               <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item" data-aos="fade-right" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="2000">
+                <div className="portfolio-item" data-aos="fade-right" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="1000">
                   <div className="hover-bg">
                     {" "}
                     <a
@@ -99,7 +99,7 @@ export class Gallery extends Component {
                 </div>
               </div>
               <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item" data-aos="fade-up" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="2000">
+                <div className="portfolio-item" data-aos="fade-up" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="1000">
                   <div className="hover-bg">
                     {" "}
                     <a
@@ -120,7 +120,7 @@ export class Gallery extends Component {
                 </div>
               </div>
               <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item" data-aos="fade-left" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="2000">
+                <div className="portfolio-item" data-aos="fade-left" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="1000">
                   <div className="hover-bg">
                     {" "}
                     <a
@@ -141,7 +141,7 @@ export class Gallery extends Component {
                 </div>
               </div>
               <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item" data-aos="fade-right" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="2000">
+                <div className="portfolio-item" data-aos="fade-right" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="1000">
                   <div className="hover-bg">
                     {" "}
                     <a
@@ -162,7 +162,7 @@ export class Gallery extends Component {
                 </div>
               </div>
               <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item" data-aos="fade-up" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="2000">
+                <div className="portfolio-item" data-aos="fade-up" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="1000">
                   <div className="hover-bg">
                     {" "}
                     <a
@@ -183,7 +183,7 @@ export class Gallery extends Component {
                 </div>
               </div>
               <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item" data-aos="fade-left" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="2000">
+                <div className="portfolio-item" data-aos="fade-left" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="1000">
                   <div className="hover-bg">
                     {" "}
                     <a
